@@ -1,0 +1,67 @@
+.buttonarrow {
+  padding: 0px 0px 0px 20%;
+}
+
+.li {
+  font-weight: bold;
+}
+
+.ul {
+  padding: 10%;
+}
+
+.leftcolumn {
+  width: auto;
+  background-color: blue;
+  height: auto;
+  float: none;
+}
+
+.rightcolumn {
+  height: 50%;
+  padding: 5%;
+}
+
+.centercolumn {
+  color: blue;
+  font-weight: bold;
+  padding: 2% 5% 0% 0%;
+}
+
+.maintext {
+  padding: 2%;
+  text-align: center;
+  color: white;
+}
+
+.button {
+  color: blue;
+  border-color: white;
+  padding: 15%;
+}
+
+.media{
+  float: right
+    ;
+}
+
+.mainimg {
+  border-radius: 50%;
+  height: 180px;
+  width: 180px;
+  
+}
+
+.circle{
+  padding: 10% 0% 0% 0%
+}
+
+.btn-outline {
+  background-color: inherit;
+  color: inherit;
+  transition: all .5s;
+}
+
+.topicon {
+  padding: 5% 0% 0% 5%;
+}
